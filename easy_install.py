@@ -17,15 +17,15 @@ from bpy.types import Operator, Panel
 
 def CaixaMensagemPM(message="", title="Message Box", icon="INFO"):
 	"""
-	Creates a message box with a specified message, title, and icon.
+		Creates a message box with a specified message, title, and icon.
 	
-	Parameters:
-	message (str): The message to display in the message box. Default is an empty string.
-	title (str): The title of the message box. Default is "Message Box".
-	icon (str): The icon to display in the message box. Default is "INFO".
+		Parameters:
+			message (str): The message to display in the message box. Default is an empty string.
+			title (str): The title of the message box. Default is "Message Box".
+			icon (str): The icon to display in the message box. Default is "INFO".
 	
-	Returns:
-	None
+		Returns:
+			None
 	"""
 
 	def draw(self, context):
