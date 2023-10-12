@@ -54,6 +54,6 @@
 
 ## About the Author
 
-This add-on is maintained by Igor, a passionate programmer with a focus on Python, machine learning, and 3D modeling. Connect with me on [GitHub](https://github.com/IgorGitHub) for more projects and updates.
+This add-on is maintained by Igor, a passionate programmer with a focus on Python, machine learning, and 3D modeling. Connect with me on [GitHub](https://github.com/igoramarall2          ) for more projects and updates.
 
 Thank you for using the Blender Python Package Installer add-on. Happy coding!
